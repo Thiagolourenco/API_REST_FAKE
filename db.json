@@ -7,15 +7,7 @@
       "description": "Sou desevolvedor Mobile focado em React Native, mais gosto bastante de estudar NodeJS, AdonisJS e estou iniciando meus estudos em NestJS, e também venho bricando com Flutter",
       "visto": "há 5 minutos",
       "status": "online",
-      "avatar": "https://api.adorable.io/avatars/285/abott@adorable.png",
-      "photos": [
-        {
-          "userId": 1,
-          "id": 1,
-          "title": "accusamus beatae ad facilis cum similique qui sunt",
-          "url": "https://via.placeholder.com/600/92c952"
-        }
-      ]
+      "avatar": "https://api.adorable.io/avatars/285/abott@adorable.png"
     },
     {
       "id": 2,
@@ -56,6 +48,14 @@
       "status": "online",
       "avatar": "https://api.adorable.io/avatars/285/abott@adorable.png",
       "amigoId": 1
+    }
+  ],
+  "photos": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "accusamus beatae ad facilis cum similique qui sunt",
+      "url": "https://via.placeholder.com/600/92c952"
     }
   ]
 }
