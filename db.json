@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Thiago Lourenço",
+      "email": "thiagolourencosaraiva123@gmail.com",
+      "description": "Sou desevolvedor Mobile focado em React Native, mais gosto bastante de estudar NodeJS, AdonisJS e estou iniciando meus estudos em NestJS, e também venho bricando com Flutter",
+      "visto": "há 5 minutos",
+      "status": "online",
+      "avatar": "https://api.adorable.io/avatars/285/abott@adorable.pngCopy to Clipboard"
+    },
+    {
+      "id": 2,
+      "name": "Thiago Lourenço",
+      "email": "thiagolourencosaraiva123@gmail.com",
+      "description": "Sou desevolvedor Mobile focado em React Native, mais gosto bastante de estudar NodeJS, AdonisJS e estou iniciando meus estudos em NestJS, e também venho bricando com Flutter",
+      "visto": "há 5 minutos",
+      "status": "online",
+      "avatar": "https://api.adorable.io/avatars/285/abott@adorable.pngCopy to Clipboard"
+    }
+  ]
+}
