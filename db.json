@@ -11,28 +11,28 @@
     },
     {
       "id": 2,
-      "name": "Thiago Lourenço",
-      "email": "thiagolourencosaraiva123@gmail.com",
-      "description": "Sou desevolvedor Mobile focado em React Native, mais gosto bastante de estudar NodeJS, AdonisJS e estou iniciando meus estudos em NestJS, e também venho bricando com Flutter",
-      "visto": "há 5 minutos",
+      "name": "Joao da Silva",
+      "email": "joaodasilva@gmail.com",
+      "description": "Sou um sonhador, que busco conquista meus objetivos, sem olhar para a dificuldade.",
+      "visto": "há 1 hora",
       "status": "online",
       "avatar": "https://api.adorable.io/avatars/285/abott@adorable.png",
       "amigoId": 1
     },
     {
       "id": 3,
-      "name": "Thiago Lourenço",
-      "email": "thiagolourencosaraiva123@gmail.com",
-      "description": "Sou desevolvedor Mobile focado em React Native, mais gosto bastante de estudar NodeJS, AdonisJS e estou iniciando meus estudos em NestJS, e também venho bricando com Flutter",
-      "visto": "há 5 minutos",
-      "status": "online",
+      "name": "Matheus Silva",
+      "email": "matheussilva@gmail.com",
+      "description": "Sou gamer, viciado em Free Fire e estou em busca de iniciar uma vida profissional jogando",
+      "visto": "há 2 dias",
+      "status": "",
       "avatar": "https://api.adorable.io/avatars/285/abott@adorable.png",
       "amigoId": 1
     },
     {
       "id": 4,
-      "name": "Thiago Lourenço",
-      "email": "thiagolourencosaraiva123@gmail.com",
+      "name": "Lucca Dumas",
+      "email": "luccaDumas@gmail.com",
       "description": "Sou desevolvedor Mobile focado em React Native, mais gosto bastante de estudar NodeJS, AdonisJS e estou iniciando meus estudos em NestJS, e também venho bricando com Flutter",
       "visto": "há 5 minutos",
       "status": "online",
@@ -41,10 +41,10 @@
     },
     {
       "id": 5,
-      "name": "Thiago Lourenço",
-      "email": "thiagolourencosaraiva123@gmail.com",
+      "name": "Jose Rodrigues",
+      "email": "joserodrigues@gmail.com",
       "description": "Sou desevolvedor Mobile focado em React Native, mais gosto bastante de estudar NodeJS, AdonisJS e estou iniciando meus estudos em NestJS, e também venho bricando com Flutter",
-      "visto": "há 5 minutos",
+      "visto": "há 30 minutos",
       "status": "online",
       "avatar": "https://api.adorable.io/avatars/285/abott@adorable.png",
       "amigoId": 1
@@ -592,7 +592,7 @@
         "title": "itaque nihil voluptatum",
         "url": "https://via.placeholder.com/600/310675"
       },
-      {
+      { 
         "userId": 5,
         "id": 217,
         "title": "ab ut placeat fuga",
